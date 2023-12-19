@@ -1,8 +1,7 @@
-# React + Vite
+# About me
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repo contains source code for the profile card below. In case you want to know anything about me.
 
-Currently, two official plugins are available:
+Done with React+Tailwind
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="984" alt="image" src="https://github.com/Morgan11-tech/my-profile/assets/73487950/3883de26-9454-4001-bf3f-24515c74d430">
