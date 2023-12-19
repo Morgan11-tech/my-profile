@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <div className="text-blue-700">hello lalala</div>
+
       <div className="bg-green-100 bg-cover min-h-screen flex items-center justify-center">
         <div className="flex items-center justify-center">
           <div className="bg-white flex rounded-2xl shadow-lg p-5">
@@ -24,7 +24,7 @@ function App() {
                 I'm studying Computer Science
               </p>
               <p className="text-left text-lg font-medium mb-5">
-                at Ashesi University
+                at <a href="www.ashesi.edu.gh" className="hover:underline ">Ashesi University</a>
               </p>
               <p className="text-left text-lg font-bold hover:text-green-400 text-black">Dedicated</p>
               <p className="text-left text-lg font-bold hover:text-yellow-400">Hardworking</p>
@@ -37,13 +37,8 @@ function App() {
                <svg xmlns="http://www.w3.org/2000/svg" height="16" width="14" viewBox="0 0 448 512">
                 <path d="M0 216C0 149.7 53.7 96 120 96h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V320 288 216zm256 0c0-66.3 53.7-120 120-120h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H320c-35.3 0-64-28.7-64-64V320 288 216z"/></svg>
                
-                  <p>I wanna be a hero</p>
-                  <cite>
-                    -
-                    <a href="..." target="_blank">
-                      nickd
-                    </a>
-                  </cite>
+                  <p>My goal is to build awesome <br /> and useful  solutions whilst <br /> being the best software engineer <br /> I can be.</p>
+                 
                 </blockquote>
                 
                 {/* follow me */}
